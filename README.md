@@ -1,4 +1,4 @@
-# Sentiment_analysis_of_tweet
+# Sentiment Analysis Using BERT on Twitter Data
 
 ## Overview
 Sentiment analysis is a crucial task in natural language processing, allowing us to gauge the sentiment or emotional tone expressed in text data. In this project, we leverage the power of BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art transformer model, for sentiment analysis on a substantial Twitter dataset. The dataset comprises approximately 1,600,000 tweets, but for computational efficiency, we randomly selected and analyzed 100,000 tweets.
