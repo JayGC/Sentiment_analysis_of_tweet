@@ -1,5 +1,6 @@
 # Sentiment_analysis_of_tweet
 
+#Description
 • utilised BERT, a state-of-art transformer model, and its pretrained architecture for feature extraction to perform
 sentiment analysis on a sizable dataset of about 16,00,000 tweets but used 1,00,000 random samples from it.
 • The tweet data was cleaned up and optimised using effective data preprocessing techniques, ensuring that the extracted
